@@ -1,3 +1,6 @@
+## Dockerizing and Deploying an ML API to AWS ECS Fargate
+
+
 The document serves as a comprehensive roadmap for packing a Machine Learning (ML) inference script into a secure container, testing it locally, and shipping it onto a live cloud production pipeline using AWS ECS Fargate.
 Step 1: Building the Application and Dockerfile
 Before shipping to the cloud, you need a lightweight application setup and a clean infrastructure blueprint file (Dockerfile).
